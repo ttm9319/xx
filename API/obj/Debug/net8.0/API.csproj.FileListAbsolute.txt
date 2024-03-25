@@ -130,3 +130,7 @@ C:\Users\hp\Desktop\xx\skinet\API\obj\Debug\net8.0\refint\API.dll
 C:\Users\hp\Desktop\xx\skinet\API\obj\Debug\net8.0\API.pdb
 C:\Users\hp\Desktop\xx\skinet\API\obj\Debug\net8.0\API.genruntimeconfig.cache
 C:\Users\hp\Desktop\xx\skinet\API\obj\Debug\net8.0\ref\API.dll
+C:\Users\hp\Desktop\xx\skinet\api\obj\Debug\net8.0\API.sourcelink.json
+C:\Users\hp\Desktop\xx\skinet\api\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\hp\Desktop\xx\skinet\api\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\hp\Desktop\xx\skinet\api\bin\Debug\net8.0\API.staticwebassets.runtime.json
