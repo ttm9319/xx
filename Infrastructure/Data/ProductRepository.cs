@@ -26,7 +26,7 @@ namespace Infrastructure.Data
         {
             return await _context.Products
               .Include(p => p.ProductType)
-            .Include(p => p.productBrand)
+            .Include(p => p.ProductBrand)
             .FirstOrDefaultAsync(p => p.Id == id);
         }
 
@@ -34,7 +34,7 @@ namespace Infrastructure.Data
         {
             return await _context.Products
             .Include(p => p.ProductType)
-            .Include(p => p.productBrand)
+            .Include(p => p.ProductBrand)
             .ToListAsync();
         }
 
