@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\Desktop\\xx\\skinet\\Infrastructure\\Infrastructure.csproj": {}
+    "C:\\Users\\hp\\Desktop\\xxx\\xx\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\Desktop\\xx\\skinet\\Core\\Core.csproj": {
+    "C:\\Users\\hp\\Desktop\\xxx\\xx\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Desktop\\xx\\skinet\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Desktop\\xxx\\xx\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\hp\\Desktop\\xx\\skinet\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\hp\\Desktop\\xxx\\xx\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Desktop\\xx\\skinet\\Core\\obj\\",
+        "outputPath": "C:\\Users\\hp\\Desktop\\xxx\\xx\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\hp\\Desktop\\xx\\skinet\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\hp\\Desktop\\xxx\\xx\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Desktop\\xx\\skinet\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Desktop\\xxx\\xx\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\hp\\Desktop\\xx\\skinet\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Users\\hp\\Desktop\\xxx\\xx\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Desktop\\xx\\skinet\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\hp\\Desktop\\xxx\\xx\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -98,8 +98,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\hp\\Desktop\\xx\\skinet\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\hp\\Desktop\\xx\\skinet\\Core\\Core.csproj"
+              "C:\\Users\\hp\\Desktop\\xxx\\xx\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\hp\\Desktop\\xxx\\xx\\Core\\Core.csproj"
               }
             }
           }
