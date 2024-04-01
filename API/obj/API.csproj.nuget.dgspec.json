@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\Desktop\\xxx\\xx\\api\\API.csproj": {}
+    "C:\\Users\\hp\\Desktop\\xxx\\xx\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\Desktop\\xxx\\xx\\api\\API.csproj": {
+    "C:\\Users\\hp\\Desktop\\xxx\\xx\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Desktop\\xxx\\xx\\api\\API.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Desktop\\xxx\\xx\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\hp\\Desktop\\xxx\\xx\\api\\API.csproj",
+        "projectPath": "C:\\Users\\hp\\Desktop\\xxx\\xx\\API\\API.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Desktop\\xxx\\xx\\api\\obj\\",
+        "outputPath": "C:\\Users\\hp\\Desktop\\xxx\\xx\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
