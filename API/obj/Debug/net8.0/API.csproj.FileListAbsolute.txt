@@ -270,3 +270,5 @@ C:\Users\hp\Desktop\xxx\xx\api\obj\Debug\net8.0\refint\API.dll
 C:\Users\hp\Desktop\xxx\xx\api\obj\Debug\net8.0\API.pdb
 C:\Users\hp\Desktop\xxx\xx\api\obj\Debug\net8.0\API.genruntimeconfig.cache
 C:\Users\hp\Desktop\xxx\xx\api\obj\Debug\net8.0\ref\API.dll
+C:\Users\hp\Desktop\xxx\xx\api\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\hp\Desktop\xxx\xx\api\bin\Debug\net8.0\StackExchange.Redis.dll
