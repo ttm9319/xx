@@ -821,11 +821,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\Desktop\\xxx\\xx\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\Desktop\\x\\xx\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\Users\\hp\\Desktop\\xxx\\xx\\Core\\Core.csproj",
+      "projectPath": "C:\\Users\\hp\\Desktop\\x\\xx\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\Desktop\\xxx\\xx\\Core\\obj\\",
+      "outputPath": "C:\\Users\\hp\\Desktop\\x\\xx\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
