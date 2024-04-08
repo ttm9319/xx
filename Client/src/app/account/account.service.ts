@@ -6,6 +6,7 @@ import { User } from '../shared/models/user';
 import { map } from 'rxjs/operators';
 import { Router } from '@angular/router';
 import { environment } from 'src/environments/environment.prod';
+import { Address } from '../shared/models/address';
 
 
 
@@ -76,6 +77,13 @@ export class AccountService {
       
         checkEmailExists(email: string) {
           return this.http.get<boolean>(this.baseUrl + 'account/emailexists?email=' + email);
+        }
+        getUserAddress() {
+          return this.http.get<Address>(this.baseUrl + 'account/address');
+        }
+      
+        updateUserAddress(address: Address) {
+          return this.http.put<Address>(this.baseUrl + 'account/address', address);
         }
  }
 
