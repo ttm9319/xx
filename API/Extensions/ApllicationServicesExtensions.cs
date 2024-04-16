@@ -14,6 +14,7 @@ namespace API.Extensions
         IConfiguration config)
 
         {
+            services.AddSingleton<IResponseCacheService, ResponseCacheService>();
             services.AddEndpointsApiExplorer();
             services.AddSwaggerGen();
             services.AddDbContext<StoreContext>(opt =>
@@ -27,6 +28,7 @@ namespace API.Extensions
                 });
                 services.AddScoped<IBasketRepository,BasketRepository>();
                 services.AddScoped<IOrderService, OrderService>();
+                services.AddScoped<IPaymentService, PaymentService>();
                 services.AddScoped<IUnitOfWork, UnitOfWork>();
                 services.AddScoped<IProductRepository, ProductRepository>();
                 services.AddScoped<ITokenService, TokenService>();
