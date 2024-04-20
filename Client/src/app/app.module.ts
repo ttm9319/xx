@@ -1,5 +1,5 @@
 import { BrowserModule } from '@angular/platform-browser';
-import { NgModule } from '@angular/core';
+import { LOCALE_ID, NgModule } from '@angular/core';
 import {HTTP_INTERCEPTORS, HttpClientModule} from '@angular/common/http';
 
 import { AppRoutingModule } from './app-routing.module';
@@ -12,11 +12,19 @@ import { LoadingInterceptor } from './core/interceptors/loading.interceptor';
 import { JwtInterceptor } from './core/interceptors/jwt.interceptor';
 import { OrderDetailedComponent } from './order-detailed/order-detailed.component';
 
+import { registerLocaleData } from '@angular/common';
+import localeEnNg from '@angular/common/locales/en-NG';
 
+
+
+
+
+registerLocaleData(localeEnNg);
 
 @NgModule({
   declarations: [
     AppComponent
+
 
   ],
   imports: [
@@ -26,6 +34,8 @@ import { OrderDetailedComponent } from './order-detailed/order-detailed.componen
     HttpClientModule,
     CoreModule,
     HomeModule
+
+  
   
    
   ],
@@ -33,6 +43,7 @@ import { OrderDetailedComponent } from './order-detailed/order-detailed.componen
     {provide: HTTP_INTERCEPTORS, useClass:ErrorInterceptor, multi:true},
     {provide: HTTP_INTERCEPTORS, useClass:LoadingInterceptor, multi:true},
     {provide: HTTP_INTERCEPTORS, useClass:JwtInterceptor, multi:true},
+    { provide: LOCALE_ID, useValue: 'en-NG' }
   ],
   bootstrap: [AppComponent]
 })

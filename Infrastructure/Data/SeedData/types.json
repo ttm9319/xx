@@ -1,18 +1,58 @@
 [
   {
     "Id": 1,
-    "Name": "Boards"
+    "Name": "Grains and Cereals"
   },
   {
     "Id": 2,
-    "Name": "Hats"
+    "Name": "Canned and Jarred Goods"
   },
   {
     "Id": 3,
-    "Name": "Boots"
+    "Name": "Cooking Oils and Vinegars"
   },
   {
     "Id": 4,
-    "Name": "Gloves"
+    "Name": "Sweeteners"
+  },
+  {
+    "Id": 5,
+    "Name": "Baking Ingredients"
+  },
+  {
+    "Id": 6,
+    "Name": "Condiments and Spices"
+  },
+  {
+    "Id": 7,
+    "Name": "Snacks and Treats"
+  },
+  {
+    "Id": 8,
+    "Name": "Beverages"
+  },
+  {
+    "Id": 9,
+    "Name": "Dried and Dehydrated Foods"
+  },
+  {
+    "Id": 10,
+    "Name": "Breakfast Foods"
+  },
+  {
+    "Id": 11,
+    "Name": "Sauces and Dressings"
+  },
+  {
+    "Id": 12,
+    "Name": "Flavorings and Extracts"
+  },
+  {
+    "Id": 13,
+    "Name": "Nuts, Seeds, and Nut Butters"
+  },
+  {
+    "Id": 14,
+    "Name": "Pantry Staples"
   }
 ]

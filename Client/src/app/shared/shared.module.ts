@@ -12,6 +12,8 @@ import { StepperComponent } from './components/stepper/stepper.component';
 import {CdkStepperModule} from '@angular/cdk/stepper';
 import { BasketSummaryComponent } from './basket-summary/basket-summary.component';
 import { RouterModule } from '@angular/router';
+import { FooterComponent } from '../core/footer/footer.component';
+
 
 
 
@@ -22,7 +24,8 @@ import { RouterModule } from '@angular/router';
     OrderTotalsComponent,
     TextInputComponent,
     StepperComponent,
-    BasketSummaryComponent
+    BasketSummaryComponent,
+    FooterComponent
   ],
   imports: [
     CommonModule,
@@ -32,7 +35,9 @@ import { RouterModule } from '@angular/router';
     FormsModule,
     BsDropdownModule.forRoot(),
     CdkStepperModule,
-    RouterModule
+    RouterModule,
+  
+   
   ],
   exports:[
     PaginationModule,
@@ -45,7 +50,9 @@ import { RouterModule } from '@angular/router';
     TextInputComponent,
     StepperComponent,
     CdkStepperModule,
-    BasketSummaryComponent
+    BasketSummaryComponent,
+    FooterComponent
+
   ]
 })
 export class SharedModule { }

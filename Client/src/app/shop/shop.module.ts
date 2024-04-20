@@ -9,11 +9,13 @@ import { ShopRoutingModule } from './shop-routing.module';
 
 
 
+
 @NgModule({
   declarations: [
     ShopComponent,
     ProductItemComponent,
-    ProductDetailsComponent
+    ProductDetailsComponent,
+
   ],
   imports: [
     CommonModule,

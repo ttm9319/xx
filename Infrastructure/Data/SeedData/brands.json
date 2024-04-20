@@ -1,26 +1,250 @@
 [
   {
     "Id": 1,
-    "Name": "Angular"
+    "Name": "Long grain parboiled rice"
   },
   {
     "Id": 2,
-    "Name": "NetCore"
+    "Name": "Beans (black-eyed peas)"
   },
   {
     "Id": 3,
-    "Name": "VS Code"
+    "Name": "Garri (cassava flakes)"
   },
   {
     "Id": 4,
-    "Name": "React"
+    "Name": "Semolina"
   },
   {
     "Id": 5,
-    "Name": "Typescript"
+    "Name": "Millet"
   },
   {
     "Id": 6,
-    "Name": "Redis"
+    "Name": "Canned tomatoes"
+  },
+  {
+    "Id": 7,
+    "Name": "Palm oil"
+  },
+  {
+    "Id": 8,
+    "Name": "Tomato paste"
+  },
+  {
+    "Id": 9,
+    "Name": "Canned beans"
+  },
+  {
+    "Id": 10,
+    "Name": "Fish (sardines or mackerel)"
+  },
+  {
+    "Id": 11,
+    "Name": "Groundnut oil"
+  },
+  {
+    "Id": 12,
+    "Name": "Coconut oil"
+  },
+  {
+    "Id": 13,
+    "Name": "White vinegar"
+  },
+  {
+    "Id": 14,
+    "Name": "Granulated sugar"
+  },
+  {
+    "Id": 15,
+    "Name": "Honey"
+  },
+  {
+    "Id": 16,
+    "Name": "Brown sugar"
+  },
+  {
+    "Id": 17,
+    "Name": "Date syrup"
+  },
+  {
+    "Id": 18,
+    "Name": "All-purpose flour"
+  },
+  {
+    "Id": 19,
+    "Name": "Baking powder"
+  },
+  {
+    "Id": 20,
+    "Name": "Baking soda"
+  },
+  {
+    "Id": 21,
+    "Name": "Yeast"
+  },
+  {
+    "Id": 22,
+    "Name": "Cocoa powder"
+  },
+  {
+    "Id": 23,
+    "Name": "Salt"
+  },
+  {
+    "Id": 24,
+    "Name": "Maggi or Knorr seasoning cubes"
+  },
+  {
+    "Id": 25,
+    "Name": "Ground crayfish"
+  },
+  {
+    "Id": 26,
+    "Name": "Pepper"
+  },
+  {
+    "Id": 27,
+    "Name": "Curry powder"
+  },
+  {
+    "Id": 28,
+    "Name": "Chin chin"
+  },
+  {
+    "Id": 29,
+    "Name": "Plantain chips"
+  },
+  {
+    "Id": 30,
+    "Name": "Puffed corn snacks"
+  },
+  {
+    "Id": 31,
+    "Name": "Groundnut cakes (kulikuli)"
+  },
+  {
+    "Id": 32,
+    "Name": "Nigerian-grown coffee beans"
+  },
+  {
+    "Id": 33,
+    "Name": "Hibiscus tea (Zobo)"
+  },
+  {
+    "Id": 34,
+    "Name": "Milo or Ovaltine"
+  },
+  {
+    "Id": 35,
+    "Name": "Bottled palm wine"
+  },
+  {
+    "Id": 36,
+    "Name": "Instant powdered drinks"
+  },
+  {
+    "Id": 37,
+    "Name": "Dried fish"
+  },
+  {
+    "Id": 38,
+    "Name": "Dried pepper"
+  },
+  {
+    "Id": 39,
+    "Name": "Dried crayfish"
+  },
+  {
+    "Id": 40,
+    "Name": "Dried vegetables"
+  },
+  {
+    "Id": 41,
+    "Name": "Oatmeal"
+  },
+  {
+    "Id": 42,
+    "Name": "Cornflakes"
+  },
+  {
+    "Id": 43,
+    "Name": "Pap (ogi or akamu)"
+  },
+  {
+    "Id": 44,
+    "Name": "Custard powder"
+  },
+  {
+    "Id": 45,
+    "Name": "Akara mix"
+  },
+  {
+    "Id": 46,
+    "Name": "Tomato stew base"
+  },
+  {
+    "Id": 47,
+    "Name": "Ogbono"
+  },
+  {
+    "Id": 48,
+    "Name": "Egusi"
+  },
+  {
+    "Id": 49,
+    "Name": "Buka sauce"
+  },
+  {
+    "Id": 50,
+    "Name": "Vanilla essence"
+  },
+  {
+    "Id": 51,
+    "Name": "Almond essence"
+  },
+  {
+    "Id": 52,
+    "Name": "Coconut flavoring"
+  },
+  {
+    "Id": 53,
+    "Name": "Bitter leaf extract"
+  },
+  {
+    "Id": 54,
+    "Name": "Groundnuts"
+  },
+  {
+    "Id": 55,
+    "Name": "Melon seeds (egusi)"
+  },
+  {
+    "Id": 56,
+    "Name": "Tiger nuts"
+  },
+  {
+    "Id": 57,
+    "Name": "Peanut butter"
+  },
+  {
+    "Id": 58,
+    "Name": "Stock cubes (Maggi, Knorr)"
+  },
+  {
+    "Id": 59,
+    "Name": "Dried okra"
+  },
+  {
+    "Id": 60,
+    "Name": "Dry pepper (for seasoning)"
+  },
+  {
+    "Id": 61,
+    "Name": "Instant noodles (like Indomie)"
+  },
+  {
+    "Id": 62,
+    "Name": "Garri flour"
   }
 ]

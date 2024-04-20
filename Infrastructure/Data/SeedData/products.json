@@ -1,146 +1,506 @@
 [
   {
-    "Name": "Angular Speedster Board 2000",
-    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Name": "Long Grain Parboiled Rice",
+    "Description": "Premium quality long grain rice that has been parboiled to preserve nutrients and shorten cooking time.",
     "Price": 200,
-    "PictureUrl": "images/products/sb-ang1.png",
+    "PictureUrl": "images/products/parboiled_rice.jpeg",
     "ProductTypeId": 1,
     "ProductBrandId": 1
   },
   {
-    "Name": "Green Angular Board 3000",
-    "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
+    "Name": "Black-Eyed Peas (Beans)",
+    "Description": "High-quality black-eyed peas, a staple in Nigerian cuisine, rich in protein and fiber.",
     "Price": 150,
-    "PictureUrl": "images/products/sb-ang2.png",
-    "ProductTypeId": 1,
-    "ProductBrandId": 1
-  },
-  {
-    "Name": "Core Board Speed Rush 3",
-    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
-    "Price": 180,
-    "PictureUrl": "images/products/sb-core1.png",
+    "PictureUrl": "images/products/black_eyed_peas.jpeg",
     "ProductTypeId": 1,
     "ProductBrandId": 2
   },
   {
-    "Name": "Net Core Super Board",
-    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
-    "Price": 300,
-    "PictureUrl": "images/products/sb-core2.png",
+    "Name": "Garri (Cassava Flakes)",
+    "Description": "Finely ground cassava flakes, a versatile staple food in Nigeria, commonly eaten with soup or soaked in water as a snack.",
+    "Price": 100,
+    "PictureUrl": "images/products/garri.jpeg",
     "ProductTypeId": 1,
-    "ProductBrandId": 2
+    "ProductBrandId": 3
   },
   {
-    "Name": "React Board Super Whizzy Fast",
-    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
-    "Price": 250,
-    "PictureUrl": "images/products/sb-react1.png",
+    "Name": "Semolina",
+    "Description": "Finely ground semolina flour, used to make a variety of Nigerian dishes such as semolina porridge and fufu.",
+    "Price": 120,
+    "PictureUrl": "images/products/semolina.jpeg",
     "ProductTypeId": 1,
     "ProductBrandId": 4
   },
   {
-    "Name": "Typescript Entry Board",
-    "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
-    "Price": 120,
-    "PictureUrl": "images/products/sb-ts1.png",
+    "Name": "Millet",
+    "Description": "Whole millet grains, a nutritious staple in Nigerian cuisine, commonly used to make porridge or as a side dish.",
+    "Price": 100,
+    "PictureUrl": "images/products/millet.jpeg",
     "ProductTypeId": 1,
     "ProductBrandId": 5
   },
   {
-    "Name": "Core Blue Hat",
-    "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
-    "Price": 10,
-    "PictureUrl": "images/products/hat-core1.png",
+    "Name": "Canned Tomatoes",
+    "Description": "High-quality canned tomatoes, perfect for making delicious Nigerian stew dishes.",
+    "Price": 80,
+    "PictureUrl": "images/products/canned_tomatoes.jpeg",
     "ProductTypeId": 2,
-    "ProductBrandId": 2
-  },
-  {
-    "Name": "Green React Woolen Hat",
-    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
-    "Price": 8,
-    "PictureUrl": "images/products/hat-react1.png",
-    "ProductTypeId": 2,
-    "ProductBrandId": 4
-  },
-  {
-    "Name": "Purple React Woolen Hat",
-    "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
-    "Price": 15,
-    "PictureUrl": "images/products/hat-react2.png",
-    "ProductTypeId": 2,
-    "ProductBrandId": 4
-  },
-  {
-    "Name": "Blue Code Gloves",
-    "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
-    "Price": 18,
-    "PictureUrl": "images/products/glove-code1.png",
-    "ProductTypeId": 4,
-    "ProductBrandId": 3
-  },
-  {
-    "Name": "Green Code Gloves",
-    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
-    "Price": 15,
-    "PictureUrl": "images/products/glove-code2.png",
-    "ProductTypeId": 4,
-    "ProductBrandId": 3
-  },
-  {
-    "Name": "Purple React Gloves",
-    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa.",
-    "Price": 16,
-    "PictureUrl": "images/products/glove-react1.png",
-    "ProductTypeId": 4,
-    "ProductBrandId": 4
-  },
-  {
-    "Name": "Green React Gloves",
-    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
-    "Price": 14,
-    "PictureUrl": "images/products/glove-react2.png",
-    "ProductTypeId": 4,
-    "ProductBrandId": 4
-  },
-  {
-    "Name": "Redis Red Boots",
-    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
-    "Price": 250,
-    "PictureUrl": "images/products/boot-redis1.png",
-    "ProductTypeId": 3,
     "ProductBrandId": 6
   },
   {
-    "Name": "Core Red Boots",
-    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
-    "Price": 189.99,
-    "PictureUrl": "images/products/boot-core2.png",
-    "ProductTypeId": 3,
-    "ProductBrandId": 2
+    "Name": "Palm Oil",
+    "Description": "Pure palm oil extracted from fresh palm fruit, ideal for cooking and adding authentic flavor to Nigerian dishes.",
+    "Price": 250,
+    "PictureUrl": "images/products/palm_oil.jpeg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 7
   },
   {
-    "Name": "Core Purple Boots",
-    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
-    "Price": 199.99,
-    "PictureUrl": "images/products/boot-core1.png",
-    "ProductTypeId": 3,
-    "ProductBrandId": 2
+    "Name": "Tomato Paste",
+    "Description": "Thick, concentrated tomato paste, essential for enhancing the flavor and color of Nigerian dishes.",
+    "Price": 100,
+    "PictureUrl": "images/products/tomato_paste.jpeg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 8
   },
   {
-    "Name": "Angular Purple Boots",
-    "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
+    "Name": "Canned Beans",
+    "Description": "High-quality canned beans, convenient for quick and easy preparation in Nigerian recipes.",
+    "Price": 120,
+    "PictureUrl": "images/products/canned_beans.jpeg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 9
+  },
+  {
+    "Name": "Canned Fish (Sardines or Mackerel)",
+    "Description": "Premium quality fish preserved in cans, perfect for adding protein and flavor to Nigerian dishes.",
     "Price": 150,
-    "PictureUrl": "images/products/boot-ang2.png",
-    "ProductTypeId": 3,
-    "ProductBrandId": 1
+    "PictureUrl": "images/products/canned_fish.jpeg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 10
   },
   {
-    "Name": "Angular Blue Boots",
-    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
-    "Price": 180,
-    "PictureUrl": "images/products/boot-ang1.png",
+    "Name": "Palm Oil",
+    "Description": "Pure palm oil extracted from fresh palm fruit, ideal for cooking and adding authentic flavor to Nigerian dishes.",
+    "Price": 250,
+    "PictureUrl": "images/products/palm_oill.jpeg",
     "ProductTypeId": 3,
-    "ProductBrandId": 1
+    "ProductBrandId": 7
+  },
+  {
+    "Name": "Groundnut Oil (Peanut Oil)",
+    "Description": "High-quality groundnut oil extracted from peanuts, perfect for frying and cooking Nigerian dishes.",
+    "Price": 200,
+    "PictureUrl": "images/products/groundnut_oil.jpeg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 11
+  },
+  {
+    "Name": "Coconut Oil",
+    "Description": "Cold-pressed coconut oil, rich in flavor and ideal for cooking and baking in Nigerian cuisine.",
+    "Price": 300,
+    "PictureUrl": "images/products/coconut_oil.jpeg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 12
+  },
+  {
+    "Name": "White Vinegar",
+    "Description": "High-quality white vinegar, perfect for cooking, pickling, and preserving foods in Nigerian recipes.",
+    "Price": 80,
+    "PictureUrl": "images/products/white_vinegar.jpeg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 13
+  },
+  {
+    "Name": "Granulated Sugar",
+    "Description": "Fine granulated sugar, perfect for sweetening beverages and desserts in Nigerian cuisine.",
+    "Price": 50,
+    "PictureUrl": "images/products/granulated_sugar.jpeg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 14
+  },
+  {
+    "Name": "Honey",
+    "Description": "Pure, natural honey sourced locally or imported, ideal for sweetening beverages and desserts in Nigerian cuisine.",
+    "Price": 200,
+    "PictureUrl": "images/products/honey.jpeg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 15
+  },
+  {
+    "Name": "Brown Sugar",
+    "Description": "Brown sugar with a rich, caramel-like flavor, perfect for baking and sweetening desserts in Nigerian cuisine.",
+    "Price": 60,
+    "PictureUrl": "images/products/brown_sugar.jpeg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 16
+  },
+  {
+    "Name": "Date Syrup",
+    "Description": "Sweet and flavorful date syrup, commonly used as a sweetener in some regions of Nigeria.",
+    "Price": 100,
+    "PictureUrl": "images/products/date_syrup.jpeg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 17
+  },
+  {
+    "Name": "All-Purpose Flour",
+    "Description": "High-quality all-purpose flour, perfect for baking a variety of Nigerian bread, cakes, and pastries.",
+    "Price": 80,
+    "PictureUrl": "images/products/all_purpose_flour.jpeg",
+    "ProductTypeId": 5,
+    "ProductBrandId": 18
+  },
+  {
+    "Name": "Baking Powder",
+    "Description": "Leavening agent used in baking to help cakes and bread rise, essential for Nigerian baking recipes.",
+    "Price": 50,
+    "PictureUrl": "images/products/baking_powder.jpeg",
+    "ProductTypeId": 5,
+    "ProductBrandId": 19
+  },
+  {
+    "Name": "Baking Soda",
+    "Description": "Versatile leavening agent used in baking and cooking, essential for Nigerian recipes like puff-puff and pancakes.",
+    "Price": 50,
+    "PictureUrl": "images/products/baking_soda.jpeg",
+    "ProductTypeId": 5,
+    "ProductBrandId": 20
+  },
+  {
+    "Name": "Yeast",
+    "Description": "Active dry yeast, essential for making Nigerian bread, rolls, and other yeast-based recipes.",
+    "Price": 70,
+    "PictureUrl": "images/products/yeast.jpeg",
+    "ProductTypeId": 5,
+    "ProductBrandId": 21
+  },
+  {
+    "Name": "Cocoa Powder",
+    "Description": "High-quality cocoa powder, perfect for making delicious chocolate cakes and treats in Nigerian cuisine.",
+    "Price": 100,
+    "PictureUrl": "images/products/cocoa_powder.jpeg",
+    "ProductTypeId": 5,
+    "ProductBrandId": 22
+  },
+  {
+    "Name": "Salt",
+    "Description": "Fine sea salt, essential for seasoning and enhancing the flavor of Nigerian dishes.",
+    "Price": 20,
+    "PictureUrl": "images/products/salt.jpeg",
+    "ProductTypeId": 6,
+    "ProductBrandId": 23
+  },
+  {
+    "Name": "Maggi or Knorr Seasoning Cubes",
+    "Description": "Popular seasoning cubes used to enhance the flavor of Nigerian soups, stews, and sauces.",
+    "Price": 30,
+    "PictureUrl": "images/products/seasoning_cubes.jpeg",
+    "ProductTypeId": 6,
+    "ProductBrandId": 24
+  },
+  {
+    "Name": "Ground Crayfish",
+    "Description": "Sun-dried and ground crayfish, adds a rich flavor to Nigerian soups and stews.",
+    "Price": 150,
+    "PictureUrl": "images/products/ground_crayfish.jpeg",
+    "ProductTypeId": 6,
+    "ProductBrandId": 25
+  },
+  {
+    "Name": "Pepper",
+    "Description": "Hot and spicy pepper, essential for adding heat and flavor to Nigerian dishes.",
+    "Price": 30,
+    "PictureUrl": "images/products/pepper.jpeg",
+    "ProductTypeId": 6,
+    "ProductBrandId": 26
+  },
+  {
+    "Name": "Curry Powder",
+    "Description": "A blend of spices, including turmeric and coriander, adds a distinctive flavor and color to Nigerian dishes.",
+    "Price": 40,
+    "PictureUrl": "images/products/curry_powder.jpeg",
+    "ProductTypeId": 6,
+    "ProductBrandId": 27
+  },
+  {
+    "Name": "Chin Chin",
+    "Description": "Crunchy fried pastry, a popular snack in Nigeria enjoyed by all ages.",
+    "Price": 100,
+    "PictureUrl": "images/products/chin_chin.jpeg",
+    "ProductTypeId": 7,
+    "ProductBrandId": 28
+  },
+  {
+    "Name": "Plantain Chips",
+    "Description": "Crispy plantain chips, a delicious and savory snack enjoyed in Nigeria.",
+    "Price": 80,
+    "PictureUrl": "images/products/plantain_chips.jpeg",
+    "ProductTypeId": 7,
+    "ProductBrandId": 29
+  },
+  {
+    "Name": "Puffed Corn Snacks",
+    "Description": "Light and crunchy puffed corn snacks, also known as 'guguru' and 'epa', popular street snacks in Nigeria.",
+    "Price": 50,
+    "PictureUrl": "images/products/puffed_corn_snacks.jpeg",
+    "ProductTypeId": 7,
+    "ProductBrandId": 30
+  },
+  {
+    "Name": "Groundnut Cakes (Kulikuli)",
+    "Description": "Crunchy groundnut cakes made from roasted peanuts, a traditional Nigerian snack.",
+    "Price": 120,
+    "PictureUrl": "images/products/kulikuli.jpeg",
+    "ProductTypeId": 7,
+    "ProductBrandId": 31
+  },
+  {
+    "Name": "Nigerian-Grown Coffee Beans",
+    "Description": "High-quality coffee beans grown in Nigeria, perfect for brewing rich and flavorful coffee.",
+    "Price": 180,
+    "PictureUrl": "images/products/nigerian_coffee_beans.jpeg",
+    "ProductTypeId": 8,
+    "ProductBrandId": 32
+  },
+  {
+    "Name": "Hibiscus Tea (Zobo)",
+    "Description": "Dried hibiscus flowers used to make refreshing and tangy Zobo drink, popular in Nigeria.",
+    "Price": 120,
+    "PictureUrl": "images/products/hibiscus_tea.jpeg",
+    "ProductTypeId": 8,
+    "ProductBrandId": 33
+  },
+  {
+    "Name": "Milo or Ovaltine",
+    "Description": "Malted beverages like Milo or Ovaltine, enjoyed as a nutritious and delicious drink in Nigeria.",
+    "Price": 150,
+    "PictureUrl": "images/products/milo_ovaltine.jpeg",
+    "ProductTypeId": 8,
+    "ProductBrandId": 34
+  },
+  {
+    "Name": "Bottled Palm Wine",
+    "Description": "Authentic palm wine bottled for convenience, a traditional Nigerian alcoholic beverage.",
+    "Price": 200,
+    "PictureUrl": "images/products/bottled_palm_wine.jpeg",
+    "ProductTypeId": 8,
+    "ProductBrandId": 35
+  },
+  {
+    "Name": "Instant Powdered Drinks",
+    "Description": "Instant powdered drinks like Ovaltine or Bournvita, perfect for a quick and tasty beverage in Nigeria.",
+    "Price": 80,
+    "PictureUrl": "images/products/instant_powdered_drinks.jpeg",
+    "ProductTypeId": 8,
+    "ProductBrandId": 36
+  },
+  {
+    "Name": "Dried Fish",
+    "Description": "Sun-dried fish, commonly used as a flavoring ingredient in Nigerian soups and stews, adding a rich umami taste.",
+    "Price": 200,
+    "PictureUrl": "images/products/dried_fish.jpeg",
+    "ProductTypeId": 9,
+    "ProductBrandId": 37
+  },
+  {
+    "Name": "Dried Pepper",
+    "Description": "Dried and ground pepper, perfect for seasoning Nigerian dishes with a spicy kick.",
+    "Price": 50,
+    "PictureUrl": "images/products/dried_pepper.jpeg",
+    "ProductTypeId": 9,
+    "ProductBrandId": 38
+  },
+  {
+    "Name": "Dried Crayfish",
+    "Description": "Sun-dried and smoked crayfish, adds a rich umami flavor to Nigerian soups and stews.",
+    "Price": 250,
+    "PictureUrl": "images/products/dried_crayfish.jpeg",
+    "ProductTypeId": 9,
+    "ProductBrandId": 39
+  },
+  {
+    "Name": "Dried Vegetables (Ugwu Leaves)",
+    "Description": "Dried ugwu leaves, a nutritious and flavorful addition to Nigerian soups and stews.",
+    "Price": 150,
+    "PictureUrl": "images/products/dried_vegetables.jpeg",
+    "ProductTypeId": 9,
+    "ProductBrandId": 40
+  },
+  {
+    "Name": "Oatmeal",
+    "Description": "Whole grain oatmeal, a nutritious and filling breakfast option in Nigerian cuisine.",
+    "Price": 100,
+    "PictureUrl": "images/products/oatmeal.jpeg",
+    "ProductTypeId": 10,
+    "ProductBrandId": 41
+  },
+  {
+    "Name": "Cornflakes",
+    "Description": "Crispy cornflakes, a popular breakfast cereal enjoyed with milk or yogurt in Nigeria.",
+    "Price": 120,
+    "PictureUrl": "images/products/cornflakes.jpeg",
+    "ProductTypeId": 10,
+    "ProductBrandId": 42
+  },
+  {
+    "Name": "Pap (Ogi or Akamu)",
+    "Description": "Traditional Nigerian breakfast made from fermented cornmeal, served hot and often paired with akara or moi moi.",
+    "Price": 50,
+    "PictureUrl": "images/products/pap.jpeg",
+    "ProductTypeId": 10,
+    "ProductBrandId": 43
+  },
+  {
+    "Name": "Custard Powder",
+    "Description": "Yellow custard powder, a classic Nigerian breakfast dish served hot with milk or water.",
+    "Price": 80,
+    "PictureUrl": "images/products/custard_powder.jpeg",
+    "ProductTypeId": 10,
+    "ProductBrandId": 44
+  },
+  {
+    "Name": "Akara Mix (Bean Cake Mix)",
+    "Description": "Pre-mixed bean cake batter, perfect for making delicious and fluffy akara, a popular Nigerian breakfast dish.",
+    "Price": 70,
+    "PictureUrl": "images/products/akara_mix.jpeg",
+    "ProductTypeId": 10,
+    "ProductBrandId": 45
+  },
+  {
+    "Name": "Tomato Stew Base",
+    "Description": "Rich and flavorful tomato stew base, perfect for making a variety of Nigerian tomato-based sauces and soups.",
+    "Price": 80,
+    "PictureUrl": "images/products/tomato_stew_base.jpeg",
+    "ProductTypeId": 11,
+    "ProductBrandId": 46
+  },
+  {
+    "Name": "Ogbono (Thickening Seed)",
+    "Description": "Ogbono seeds, used as a thickening agent in Nigerian soups and stews, adding a unique flavor and texture.",
+    "Price": 100,
+    "PictureUrl": "images/products/ogbono.jpeg",
+    "ProductTypeId": 11,
+    "ProductBrandId": 47
+  },
+  {
+    "Name": "Egusi (Melon Seeds)",
+    "Description": "Whole egusi seeds, used in Nigerian cuisine to thicken soups and stews and add a rich nutty flavor.",
+    "Price": 150,
+    "PictureUrl": "images/products/egusi.jpeg",
+    "ProductTypeId": 11,
+    "ProductBrandId": 48
+  },
+  {
+    "Name": "Buka Sauce",
+    "Description": "Spicy and flavorful buka sauce, commonly used in local eateries and street food stalls in Nigeria.",
+    "Price": 120,
+    "PictureUrl": "images/products/buka_sauce.jpeg",
+    "ProductTypeId": 11,
+    "ProductBrandId": 49
+  },
+  {
+    "Name": "Vanilla Essence",
+    "Description": "Pure vanilla essence, perfect for adding a sweet and aromatic flavor to Nigerian desserts and baked goods.",
+    "Price": 50,
+    "PictureUrl": "images/products/vanilla_essence.jpeg",
+    "ProductTypeId": 12,
+    "ProductBrandId": 50
+  },
+  {
+    "Name": "Almond Essence",
+    "Description": "Almond-flavored essence, adds a rich and nutty flavor to Nigerian desserts, cakes, and pastries.",
+    "Price": 60,
+    "PictureUrl": "images/products/almond_essence.jpeg",
+    "ProductTypeId": 12,
+    "ProductBrandId": 51
+  },
+  {
+    "Name": "Coconut Flavoring",
+    "Description": "Natural coconut flavoring, perfect for adding a tropical twist to Nigerian desserts and beverages.",
+    "Price": 70,
+    "PictureUrl": "images/products/coconut_flavoring.jpeg",
+    "ProductTypeId": 12,
+    "ProductBrandId": 52
+  },
+  {
+    "Name": "Bitter Leaf Extract",
+    "Description": "Concentrated bitter leaf extract, adds a distinctive bitter flavor to Nigerian soups and stews.",
+    "Price": 80,
+    "PictureUrl": "images/products/bitter_leaf_extract.jpeg",
+    "ProductTypeId": 12,
+    "ProductBrandId": 53
+  },
+  {
+    "Name": "Groundnuts (Peanuts)",
+    "Description": "High-quality groundnuts (peanuts), rich in protein and healthy fats, perfect for snacking or use in Nigerian recipes.",
+    "Price": 50,
+    "PictureUrl": "images/products/groundnuts.jpeg",
+    "ProductTypeId": 13,
+    "ProductBrandId": 54
+  },
+  {
+    "Name": "Melon Seeds (Egusi)",
+    "Description": "Whole melon seeds (egusi), rich in nutrients and commonly used in Nigerian soups and stews.",
+    "Price": 100,
+    "PictureUrl": "images/products/melon_seeds.jpeg",
+    "ProductTypeId": 13,
+    "ProductBrandId": 55
+  },
+  {
+    "Name": "Tiger Nuts",
+    "Description": "Tiger nuts, used in making 'kunu', a popular Nigerian beverage enjoyed for its nutty flavor and health benefits.",
+    "Price": 120,
+    "PictureUrl": "images/products/tiger_nuts.jpeg",
+    "ProductTypeId": 13,
+    "ProductBrandId": 56
+  },
+  {
+    "Name": "Peanut Butter",
+    "Description": "Creamy peanut butter, made from high-quality peanuts, perfect for spreading on bread or adding to Nigerian recipes.",
+    "Price": 150,
+    "PictureUrl": "images/products/peanut_butter.jpeg",
+    "ProductTypeId": 13,
+    "ProductBrandId": 57
+  },
+  {
+    "Name": "Stock Cubes (Maggi, Knorr)",
+    "Description": "Popular seasoning cubes like Maggi or Knorr, essential for adding flavor to Nigerian soups, stews, and sauces.",
+    "Price": 30,
+    "PictureUrl": "images/products/stock_cubes.jpeg",
+    "ProductTypeId": 14,
+    "ProductBrandId": 58
+  },
+  {
+    "Name": "Dried Okra",
+    "Description": "Dried okra slices, perfect for thickening and adding flavor to Nigerian soups and stews.",
+    "Price": 80,
+    "PictureUrl": "images/products/dried_okra.jpeg",
+    "ProductTypeId": 14,
+    "ProductBrandId": 59
+  },
+  {
+    "Name": "Dry Pepper",
+    "Description": "Dried and ground pepper, adds a spicy kick to Nigerian dishes and sauces.",
+    "Price": 40,
+    "PictureUrl": "images/products/dry_pepper.jpeg",
+    "ProductTypeId": 14,
+    "ProductBrandId": 60
+  },
+  {
+    "Name": "Instant Noodles (Indomie)",
+    "Description": "Popular brand of instant noodles, loved by Nigerians for its quick and delicious meal options.",
+    "Price": 50,
+    "PictureUrl": "images/products/instant_noodles.jpeg",
+    "ProductTypeId": 14,
+    "ProductBrandId": 61
+  },
+  {
+    "Name": "Garri Flour",
+    "Description": "High-quality garri flour, made from cassava, a staple food in Nigeria, commonly eaten with soup or soaked in water as a snack.",
+    "Price": 100,
+    "PictureUrl": "images/products/garri_flour.jpeg",
+    "ProductTypeId": 14,
+    "ProductBrandId": 62
   }
 ]

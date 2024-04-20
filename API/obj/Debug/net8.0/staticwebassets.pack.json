@@ -1,76 +1,256 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\boot-ang1.png",
-      "PackagePath": "staticwebassets\\images\\products\\boot-ang1.png"
+      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\akara_mix.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\akara_mix.jpeg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\boot-ang2.png",
-      "PackagePath": "staticwebassets\\images\\products\\boot-ang2.png"
+      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\all_purpose_flour.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\all_purpose_flour.jpeg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\boot-core1.png",
-      "PackagePath": "staticwebassets\\images\\products\\boot-core1.png"
+      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\almond_essence.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\almond_essence.jpeg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\boot-core2.png",
-      "PackagePath": "staticwebassets\\images\\products\\boot-core2.png"
+      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\baking_powder.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\baking_powder.jpeg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\boot-redis1.png",
-      "PackagePath": "staticwebassets\\images\\products\\boot-redis1.png"
+      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\baking_soda.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\baking_soda.jpeg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\glove-code1.png",
-      "PackagePath": "staticwebassets\\images\\products\\glove-code1.png"
+      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\bitter_leaf_extract.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\bitter_leaf_extract.jpeg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\glove-code2.png",
-      "PackagePath": "staticwebassets\\images\\products\\glove-code2.png"
+      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\black_eyed_peas.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\black_eyed_peas.jpeg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\glove-react1.png",
-      "PackagePath": "staticwebassets\\images\\products\\glove-react1.png"
+      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\bottled_palm_wine.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\bottled_palm_wine.jpeg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\glove-react2.png",
-      "PackagePath": "staticwebassets\\images\\products\\glove-react2.png"
+      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\brown_sugar.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\brown_sugar.jpeg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\hat-core1.png",
-      "PackagePath": "staticwebassets\\images\\products\\hat-core1.png"
+      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\buka_sauce.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\buka_sauce.jpeg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\hat-react1.png",
-      "PackagePath": "staticwebassets\\images\\products\\hat-react1.png"
+      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\canned_beans.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\canned_beans.jpeg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\hat-react2.png",
-      "PackagePath": "staticwebassets\\images\\products\\hat-react2.png"
+      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\canned_fish.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\canned_fish.jpeg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\sb-ang1.png",
-      "PackagePath": "staticwebassets\\images\\products\\sb-ang1.png"
+      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\canned_tomatoes.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\canned_tomatoes.jpeg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\sb-ang2.png",
-      "PackagePath": "staticwebassets\\images\\products\\sb-ang2.png"
+      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\chin_chin.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\chin_chin.jpeg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\sb-core1.png",
-      "PackagePath": "staticwebassets\\images\\products\\sb-core1.png"
+      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\cocoa_powder.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\cocoa_powder.jpeg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\sb-core2.png",
-      "PackagePath": "staticwebassets\\images\\products\\sb-core2.png"
+      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\coconut_flavoring.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\coconut_flavoring.jpeg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\sb-react1.png",
-      "PackagePath": "staticwebassets\\images\\products\\sb-react1.png"
+      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\coconut_oil.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\coconut_oil.jpeg"
     },
     {
-      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\sb-ts1.png",
-      "PackagePath": "staticwebassets\\images\\products\\sb-ts1.png"
+      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\cornflakes.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\cornflakes.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\curry_powder.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\curry_powder.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\custard_powder.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\custard_powder.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\date_syrup.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\date_syrup.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\dried_crayfish.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\dried_crayfish.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\dried_fish.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\dried_fish.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\dried_okra.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\dried_okra.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\dried_pepper.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\dried_pepper.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\dried_vegetables.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\dried_vegetables.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\dry_pepper.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\dry_pepper.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\egusi.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\egusi.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\garri.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\garri.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\garri_flour.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\garri_flour.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\granulated_sugar.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\granulated_sugar.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\ground_crayfish.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\ground_crayfish.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\groundnut_oil.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\groundnut_oil.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\groundnuts.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\groundnuts.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\hibiscus_tea.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\hibiscus_tea.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\honey.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\honey.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\instant_noodles.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\instant_noodles.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\instant_powdered_drinks.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\instant_powdered_drinks.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\kulikuli.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\kulikuli.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\melon_seeds.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\melon_seeds.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\millet.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\millet.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\milo_ovaltine.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\milo_ovaltine.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\nigerian_coffee_beans.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\nigerian_coffee_beans.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\oatmeal.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\oatmeal.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\ogbono.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\ogbono.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\palm_oil.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\palm_oil.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\palm_oill.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\palm_oill.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\pap.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\pap.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\parboiled_rice.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\parboiled_rice.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\peanut_butter.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\peanut_butter.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\pepper.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\pepper.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\plantain_chips.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\plantain_chips.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\puffed_corn_snacks.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\puffed_corn_snacks.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\salt.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\salt.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\seasoning_cubes.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\seasoning_cubes.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\semolina.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\semolina.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\stock_cubes.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\stock_cubes.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\tiger_nuts.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\tiger_nuts.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\tomato_paste.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\tomato_paste.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\tomato_stew_base.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\tomato_stew_base.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\vanilla_essence.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\vanilla_essence.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\white_vinegar.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\white_vinegar.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\x\\xx\\api\\wwwroot\\images\\products\\yeast.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\yeast.jpeg"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props",

@@ -13,6 +13,8 @@ import { SharedModule } from '../shared/shared.module';
 
 
 
+
+
 @NgModule({
   declarations: [
     NavBarComponent,
@@ -20,6 +22,7 @@ import { SharedModule } from '../shared/shared.module';
     NotFoundComponent,
     ServerErrorComponent,
     SectionHeaderComponent
+
   ],
   imports: [
     CommonModule,
@@ -37,6 +40,7 @@ import { SharedModule } from '../shared/shared.module';
     NavBarComponent,
     SectionHeaderComponent,
     NgxSpinnerModule
+ 
   ]
 })
 export class CoreModule { }
